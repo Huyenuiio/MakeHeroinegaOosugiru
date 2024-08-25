@@ -169,7 +169,7 @@ var art = new Artplayer({
     url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/huyenndevv/MakeHeroinegaOosugiruEP1/output.m3u8', 
     type: 'm3u8',
     title: 'Ep.1 ...',
-    poster: 'https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg',
+    poster: 'https://raw.githubusercontent.com/Huyenuiio/MakeHeroinegaOosugiru/main/img/kv_visual06.jpg',
     volume: 0.5,
     isLive: false,                  //Sử dụng chế độ trực tiếp, chế độ này sẽ ẩn thanh tiến trình và thời gian phát lại
     muted: false,
@@ -236,7 +236,7 @@ var art = new Artplayer({
                     url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/MakeHeroinegaOosugiru/MakeHeroinegaOosugiruuEP4/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2004%20(480p)%20%5B93792959%5D.srt',
                 },
                 {
-                    html: 'Tập 5 - Asagumo Chihaya bị dẫn dắt lạc lối',
+                    html: 'Tập 5 - Asagumo Chihaya lạc lối',
                     url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP5/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2005%20(480p)%20%5B61869276%5D.srt',
                 },
                 {
