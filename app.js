@@ -243,6 +243,10 @@ var art = new Artplayer({
                     html: 'Tập 6 - Hãy để bất kỳ ai...',
                     url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP6/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2006%20(480p)%20%5B627DEA47%5D.srt',
                 },
+                {
+                    html: 'Tập 7 - Mặt khác của một kết thúc có hậu',
+                    url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP7/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2007%20(480p)%20%5BD0EE7683%5D.srt',
+                },
                  
                 
                 
@@ -436,6 +440,10 @@ var art = new Artplayer({
             {
                 title: 'Tập 6 - Hãy để bất kỳ ai...',
                 url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP6/output.m3u8'
+            },
+            {
+                title: 'Tập 7 - Mặt khác của một kết thúc có hậu',
+                url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP7/output.m3u8'
             },
               
         ]
