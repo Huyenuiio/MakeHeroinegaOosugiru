@@ -10,20 +10,20 @@
         background: #0f0f0f;
         font-family: 'Quicksand', sans-serif;
           /* Thay đổi con trỏ chuột khi di chuyển */
-          /* cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(2).cur'), auto; */
+          cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-cursor.cur'), auto;
     }
 
 /* Thay đổi con trỏ chuột khi di chuyển lên một phần tử */
-/* body:hover {
-cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(2).cur'), auto;
-} */
+body:hover {
+cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-cursor.cur'), auto;
+}
  /* Thay đổi con trỏ chuột khi nhấp chuột */
-/* body:active {
-cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(2).cur'), auto;
-} */
-/* a:hover {
-cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(2).cur'), auto;
-} */
+body:active {
+cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-pointer.cur'), auto;
+}
+a:hover {
+cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-pointer.cur'), auto;
+}
 /* 
 a:hover{
 border: 1px solid white; 
@@ -33,7 +33,7 @@ cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(1).cur'),
 
 .cover:hover{
     border: 1px solid white; 
-    /* cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(1).cur'), auto; */
+    cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-pointer.cur'), auto;
 }
 
 
@@ -107,7 +107,7 @@ cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(1).cur'),
     }
     .container .playlist .vid:hover{
         background: rgb(39 39 39);
-        /* cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(1).cur'), auto; */
+        cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-pointer.cur'), auto;
         border: 1px solid white;
     }
     .container .playlist .vid:hover .title{
@@ -302,12 +302,12 @@ font-family: 'Quicksand', sans-serif;
 }
 
 /* hover trong main video */
-/* .art-video:hover{
-    cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(1).cur'), auto;
+.art-video:hover{
+    cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-pointer.cur'), auto;
 }
 .art-video:active{
-    cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(1).cur'), auto;
-} */
+    cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-pointer.cur'), auto;
+}
 
 /*   hiệu ứng loading*/
 #loading{
@@ -380,7 +380,7 @@ border-radius: 10px;
 #custom-alert-close:hover {
     background-color: #3db4d0;
     color: white;
-    /* cursor: url('https://github.com/Huyenuiio/Fate-Zero/raw/main/cursor%20(1).cur'), auto; */
+    cursor: url('https://github.com/Huyenuiio/MakeHeroinegaOosugiru/raw/main/cur/cute-coffee-and-eclair-pointer.cur'), auto;
 }
 
 
