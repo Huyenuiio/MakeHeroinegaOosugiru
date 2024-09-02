@@ -247,6 +247,10 @@ var art = new Artplayer({
                     html: 'Tập 7 - Mặt khác của một kết thúc có hậu',
                     url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP7/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2007%20(480p)%20%5BD0EE7683%5D.srt',
                 },
+                {
+                    html: 'Tập 8 - Nếu bạn gặp rắc rối...',
+                    url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP8/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2008%20(480p)%20%5BC90AE9D1%5D.srt',
+                },
                  
                 
                 
@@ -322,20 +326,20 @@ var art = new Artplayer({
     //     },
     // ],
     // quality: [
-    //     {
-    //         default: true,
-    //         html: 'SD 480P',
-    //         url: 'https://content.jwplatform.com/videos/jHthNm6G-640.mp4',
-    //     },
-    //     {
-    //         html: 'HD 720P',
-    //         url: 'https://content.jwplatform.com/videos/jHthNm6G-1280.mp4',
-    //     },
-    //     {
-    //         html: 'FHD 1080P',
-    //         url: 'https://content.jwplatform.com/videos/jHthNm6G-1920.mp4',
-    //     },
-
+    //     // {
+    //     //     default: true,
+    //     //     html: 'SD 480P',
+    //     //     url: 'https://content.jwplatform.com/videos/jHthNm6G-640.mp4',
+    //     // },
+    //     // {
+    //     //     html: 'HD 720P',
+    //     //     url: 'https://content.jwplatform.com/videos/jHthNm6G-1280.mp4',
+    //     // },
+    //     // {
+    //     //     html: 'FHD 1080P',
+    //     //     url: 'https://content.jwplatform.com/videos/jHthNm6G-1920.mp4',
+    //     // },
+   
     // ],
 
     thumbnails: {
@@ -444,6 +448,10 @@ var art = new Artplayer({
             {
                 title: 'Tập 7 - Mặt khác của một kết thúc có hậu',
                 url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP7/output.m3u8'
+            },
+            {
+                title: 'Tập 8 - Nếu bạn gặp rắc rối, hãy thoải mái tham khảo ý kiến',
+                url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP8/output.m3u8'
             },
               
         ]
