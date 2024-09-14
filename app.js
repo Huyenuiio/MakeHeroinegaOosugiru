@@ -254,7 +254,7 @@ var art = new Artplayer({
                  
                 {
                     html: 'Tập 9 - Giáo viên nghĩ rằng đó...',
-                    url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP8/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2008%20(480p)%20%5BC90AE9D1%5D.srt',
+                    url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/main/MakeHeroinegaOosugiruEP9/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2009%20(480p)%20%5B22B8E08B%5D.srt',
                 },
                  
                 
