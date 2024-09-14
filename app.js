@@ -252,6 +252,11 @@ var art = new Artplayer({
                     url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP8/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2008%20(480p)%20%5BC90AE9D1%5D.srt',
                 },
                  
+                {
+                    html: 'Tập 9 - Giáo viên nghĩ rằng đó...',
+                    url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP8/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2008%20(480p)%20%5BC90AE9D1%5D.srt',
+                },
+                 
                 
                 
             ],
@@ -452,6 +457,10 @@ var art = new Artplayer({
             {
                 title: 'Tập 8 - Nếu bạn gặp rắc rối, hãy thoải mái tham khảo ý kiến',
                 url: 'https://raw.githubusercontent.com/Huyenuiio/gittesst2/thaoquyen/MakeEP8/output.m3u8'
+            },
+            {
+                title: 'Tập 9 - Giáo viên nghĩ rằng đó là vết bẩn...',
+                url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/main/MakeHeroinegaOosugiruEP9/output.m3u8'
             },
               
         ]
