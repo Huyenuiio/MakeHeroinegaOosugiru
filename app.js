@@ -256,6 +256,14 @@ var art = new Artplayer({
                     html: 'Tập 9 - Giáo viên nghĩ rằng đó...',
                     url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/main/MakeHeroinegaOosugiruEP9/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2009%20(480p)%20%5B22B8E08B%5D.srt',
                 },
+                {
+                    html: 'Tập 10 - Tôi cho rằng còn quá sớm...',
+                    url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP10/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2010%20(480p)%20%5B37A41F37%5D.srt',
+                },
+                {
+                    html: 'Tập 11 - Chúng ta hãy nói về trách nhiệm',
+                    url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP11/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2011%20(480p)%20%5BA85E7788%5D.srt',
+                },
                  
                 
                 
@@ -461,6 +469,16 @@ var art = new Artplayer({
             {
                 title: 'Tập 9 - Giáo viên nghĩ rằng đó là vết bẩn...',
                 url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/main/MakeHeroinegaOosugiruEP9/output.m3u8'
+            },
+            {
+                title: 'Tập 10 - Tôi cho rằng còn quá sớm...',
+                url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP10/output.m3u8'
+                
+            },
+            {
+                title: 'Tập 11 - Chúng ta hãy nói về trách nhiệm',
+                url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP11/output.m3u8'
+                
             },
               
         ]
