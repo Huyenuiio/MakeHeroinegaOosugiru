@@ -264,6 +264,10 @@ var art = new Artplayer({
                     html: 'Tập 11 - Chúng ta hãy nói về trách nhiệm',
                     url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP11/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2011%20(480p)%20%5BA85E7788%5D.srt',
                 },
+                {
+                    html: 'Tập 12 - Có phải tôi thực sự chỉ là...',
+                    url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP12/%5BSubtitleTools.com%5D%20%5BSubsPlease%5D%20Make%20Heroine%20ga%20Oosugiru!%20-%2012%20(480p)%20%5B483D9B71%5D.srt',
+                },
                  
                 
                 
@@ -478,6 +482,11 @@ var art = new Artplayer({
             {
                 title: 'Tập 11 - Chúng ta hãy nói về trách nhiệm',
                 url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP11/output.m3u8'
+                
+            },
+            {
+                title: 'Tập 12 - Có phải tôi thực sự chỉ là...',
+                url: 'https://raw.githubusercontent.com/Huyenuiio/gainga/refs/heads/main/MakeHeroinegaOosugiruEP12/output.m3u8'
                 
             },
               
